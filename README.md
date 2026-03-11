@@ -94,11 +94,11 @@ AnOS/
 
 ```bash
 git clone https://github.com/AnOS-Project/AnOS
-cd AnOS/src
-sudo bash ./build-debug.sh
+cd AnOS
+sudo ./build.sh
 ```
 
-ISO output sẽ xuất hiện tại `out/`.
+ISO output sẽ xuất hiện tại `src/out/`.
 
 ---
 
