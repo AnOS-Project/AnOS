@@ -1,0 +1,13 @@
+# Build artifacts
+src/out/
+src/work/
+
+# Editor / OS junk
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+
+# ME.md (personal notes)
+ME.md
