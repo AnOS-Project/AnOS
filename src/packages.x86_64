@@ -33,6 +33,7 @@ knotifications
 kglobalaccel
 layer-shell-qt
 libplasma
+kde-material-you-colors
 
 # ------------------------------------------------------------
 # Wayland Session
@@ -224,7 +225,7 @@ firefox
 #lib32-opencl-nvidia-470xx
 # Lý do # 470xx và 390xx là vì nó conflict với mainline driver, anos-installer sẽ lo driver NVIDIA sau
 # NVIDIA driver mainline - dành cho RTX 2000/3000/4000 series và GTX 1650/1660
-nvidia-open-dkms
+nvidia-dkms
 nvidia-utils
 opencl-nvidia
 lib32-nvidia-utils
